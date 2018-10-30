@@ -9,6 +9,7 @@ Because There is no sing() method is implemented either in Animal or Bird class.
 
 To implement the sing behavior the simplest way would be to add the
 sing method to the Bird class as given below.
+
     public void sing(){
         System.out.println("I am Singing");
     }

@@ -25,7 +25,6 @@ public class ParrotServiceTest {
 		parrot.setSoundBehaviour(new RoosterSound());
 		Assert.assertEquals("Cock-a-doodle-doo", parrot.performSound());
 		parrot.setSoundBehaviour(new PhoneSound());
-		//Assert.assertEquals("", parrot.performSound());
 	}
 
 }

@@ -18,5 +18,5 @@ Q. 1)
 b. How did you optimize the code for maintainability?
 
 ans:
-By creating two separate interfaces for the behaviors fly () and sing(). So the developer can give only the required behahior by implementing that interface.
+By creating two separate interfaces for the behaviors fly () and sing(). So the developer can give only the required behavior by implementing that interface.
 
